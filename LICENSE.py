@@ -1,4 +1,4 @@
-license_text = """MIT License
+MIT License
 
 Copyright (c) 2025 Team Ldft PCCOE
 
